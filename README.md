@@ -1,1 +1,1 @@
-# wpf
+# WPF Bidding platform
